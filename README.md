@@ -1,4 +1,4 @@
-This repository is for the class ENEE 631 Digital Image & Video Processing in UMD, including web journals which contains implementation of basic image & video processing techniques, and the final project which will be decided later.
+This repository is for the class ENEE 631 Digital Image & Video Processing in UMD, including web journals which contains implementation and discussion of basic image & video processing techniques, and the final project which will be decided later.
 
 All the algorithms are impelemented in MATLAB and are organized to create web journal for each project.
 
