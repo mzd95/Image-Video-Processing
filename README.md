@@ -8,11 +8,11 @@ The contents in each web journal are:
 
 Web Journal 1:
 
-  Color Representation;
+    Color Representation;
   
-  Processing Grayscale Image;
+    Processing Grayscale Image;
   
-  Green Photography for Fun Background.
+    Green Photography for Fun Background.
   
   
 Web Journal 2:
