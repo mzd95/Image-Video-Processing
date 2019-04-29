@@ -9,41 +9,30 @@ The contents in each web journal are:
 Web Journal 1:
 
     Color Representation;
-  
     Processing Grayscale Image;
-  
     Green Photography for Fun Background.
   
   
 Web Journal 2:
 
-  Visual Quantization and Dithering;
-  
-  Morphologinal Filters;
-  
-  Image Smoothing & Sharpening;
-  
-  Image Enhancement.
+    Visual Quantization and Dithering;
+    Morphologinal Filters;
+    Image Smoothing & Sharpening;
+    Image Enhancement.
   
 
 Web Journal 3:
 
-  Canny Edge Detection;
-  
-  Detecting Circles;
-  
-  Image Restoration - w/ original Image;
-  
-  Image Restoration - Blind Deconvolution.
+    Canny Edge Detection;
+    Detecting Circles;
+    Image Restoration - w/ original Image;
+    Image Restoration - Blind Deconvolution.
   
   
 Web Journal 4:
-
-  Huffman Coding;
-  
-  Run-length Coding;
-  
-  JPEG Image Compression;
-  
-  Image Interpolation.
+    
+    Huffman Coding;
+    Run-length Coding;
+    JPEG Image Compression;
+    Image Interpolation.
   
