@@ -25,7 +25,7 @@ Web Journal 2:
   
   Image Enhancement.
   
-  
+
 Web Journal 3:
 
   Canny Edge Detection;
