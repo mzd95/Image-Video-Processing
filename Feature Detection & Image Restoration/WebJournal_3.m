@@ -21,6 +21,7 @@
 % identify multiple edge pixels where only a single edge point exists.
 % 
 
+
 %%
 % 
 %  The diagram of the Canny edge detection process is shown below.
@@ -379,7 +380,7 @@ subplot(1,2,2), imshow(caterpillar_res), title('Blind convoluted');
 
 %%
 % 
-% *[1]* ¡°10.2.6.¡± Digital Image Processing, by Rafael C. Gonzalez and Richard E. Woods, Prentice-Hall, Inc., 2008, pp. 741¨C745.
+% *[1]* Â¡Â°10.2.6.Â¡Â± Digital Image Processing, by Rafael C. Gonzalez and Richard E. Woods, Prentice-Hall, Inc., 2008, pp. 741Â¨C745.
 % 
 % *[2]* Mathworkds: Detect and Measure Circular Objects in an Image, from https://www.mathworks.com/help/images/detect-and-measure-circular-objects-in-an-image.html;jsessionid=4552c6fcff7389e22acd529a2dad
 % 
